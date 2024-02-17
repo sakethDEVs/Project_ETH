@@ -1,4 +1,4 @@
-# MyToken for Minting & Burning Tokens
+# Minting & Burning Tokens
 
 ## Description
 
@@ -32,7 +32,7 @@ You can also use the `balances` function to check the balance of any address. Fo
 Feel Free to Contact me on my EMAil
 
 ## Authors
-- SAKETH KANTE
+- SATYA
 
 ## License
 
